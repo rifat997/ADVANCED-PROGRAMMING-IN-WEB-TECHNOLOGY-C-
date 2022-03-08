@@ -1,0 +1,10 @@
+Admin
+
+email:admin@demo.com
+pass:123456789
+
+
+Student [User]
+
+email:student@demo.com
+pass:12345678
